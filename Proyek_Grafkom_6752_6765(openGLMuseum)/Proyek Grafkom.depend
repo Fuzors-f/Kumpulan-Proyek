@@ -1,0 +1,174 @@
+# depslib dependency file v1.0
+1506758601 source:d:\s3_baru\bvh_player\buatanku\cobagl\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	<GL/glut.h>
+
+1506760072 source:d:\s3_baru\bvh_player\buatanku\cobagl2\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	"glut.h"
+
+976641772 d:\s3_baru\bvh_player\buatanku\cobagl2\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1506760714 source:d:\s3_baru\bvh_player\buatanku\hsr\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	"glut.h"
+
+976641772 d:\s3_baru\bvh_player\buatanku\hsr\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1508726660 source:d:\codeblock\opengl\bare\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	"glut.h"
+	"benda.h"
+
+976641772 d:\codeblock\opengl\bare\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1508725484 d:\codeblock\opengl\bare\benda.h
+
+1557814533 source:d:\codeblock\__gk_week2\x9_texture\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	"glut.h"
+
+976641772 d:\codeblock\__gk_week2\x9_texture\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590064902 source:d:\kelas online\grafkom\opengl part2\___x11_walk\main.cpp
+	<windows.h>
+	<iostream>
+	<GL/gl.h>
+	<math.h>
+	"glut.h"
+
+976641772 d:\kelas online\grafkom\opengl part2\___x11_walk\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590298777 source:d:\code blocks\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+976641772 d:\code blocks\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590330122 source:d:\code blocks\backup 2\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut.h"
+	<vector>
+	<stdio.h>
+	<iostream>
+
+1590072037 d:\code blocks\backup 2\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590413522 source:d:\code blocks\backup\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut.h"
+	<vector>
+	<stdio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdio>
+	<stdlib.h>
+
+1590072037 d:\code blocks\backup\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1592205294 source:d:\code blocks\backup 1 v2\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut.h"
+	<vector>
+	<stdio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdio>
+	<stdlib.h>
+
+1590072037 d:\code blocks\backup 1 v2\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590769359 source:c:\users\fendy\documents\grafkom\grafkom-pryek\backup 3\backup 1 v2\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut.h"
+	<vector>
+	<stdio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdio>
+	<stdlib.h>
+
+1590072037 c:\users\fendy\documents\grafkom\grafkom-pryek\backup 3\backup 1 v2\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1590810479 source:d:\code blocks\backup 3 stackoverflow\proyek grafkom\main.cpp
+	<windows.h>
+	<math.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	"glut.h"
+	<vector>
+	<stdio.h>
+	<iostream>
+	<string>
+	<fstream>
+	<sstream>
+	<cstdio>
+	<stdlib.h>
+
+1590072037 d:\code blocks\backup 3 stackoverflow\proyek grafkom\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1586390478 d:\code blocks\backup 1 v2\proyek grafkom\soil.h
+
