@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1543799500 source:d:\code blocks\proyek assistensi itp\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+
+1543902809 source:c:\users\fendy\documents\proyek assistensi itp patch2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	<string>
+
+1544019546 source:d:\code blocks\proyek assistensi itp patch2\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<fstream>
+	<sstream>
+	<string>
+
