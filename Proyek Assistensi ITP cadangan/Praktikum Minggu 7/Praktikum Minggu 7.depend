@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1542080862 source:d:\code blocks\praktikum minggu 7\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
